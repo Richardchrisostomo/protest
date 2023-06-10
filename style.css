@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.button{
+  color:rgb(255, 123, 0);
+font-size:50px
+}
